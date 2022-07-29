@@ -1,0 +1,4 @@
+Maximum node at level L=2^L   
+Maximum nodes in a tree of height H is 2^H -1
+Minimum possible height or minimum level are 1og2(N+1)
+Binary tree with L leaves has at least log2(N+1)+1 number of levels
